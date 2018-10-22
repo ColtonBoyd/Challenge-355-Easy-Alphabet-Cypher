@@ -1,0 +1,7 @@
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\bin\Debug\Challenge 355 Easy Alphabet Cypher.exe.config
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\bin\Debug\Challenge 355 Easy Alphabet Cypher.exe
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\bin\Debug\Challenge 355 Easy Alphabet Cypher.pdb
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\obj\Debug\Challenge 355 Easy Alphabet Cypher.csprojAssemblyReference.cache
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\obj\Debug\Challenge 355 Easy Alphabet Cypher.csproj.CoreCompileInputs.cache
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\obj\Debug\Challenge 355 Easy Alphabet Cypher.exe
+D:\Repos\Challenge 355 Easy Alphabet Cypher\Challenge 355 Easy Alphabet Cypher\obj\Debug\Challenge 355 Easy Alphabet Cypher.pdb
